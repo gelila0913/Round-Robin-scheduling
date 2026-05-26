@@ -1,0 +1,23 @@
+# Build folders
+build/
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Compiled files
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.obj
+
+# Cache
+.gradle/
