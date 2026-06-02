@@ -3,6 +3,8 @@
 *.o
 *.obj
 *.out
+*.a
+*.so
 
 # Build directories
 build/
@@ -16,6 +18,11 @@ obj/
 *.swo
 *~
 
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -28,3 +35,6 @@ rr
 # Debug files
 *.pdb
 *.ilk
+
+# Cache
+.gradle/
