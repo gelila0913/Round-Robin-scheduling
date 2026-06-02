@@ -1,0 +1,30 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.out
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled executables
+rr.exe
+rr
+
+# Debug files
+*.pdb
+*.ilk
